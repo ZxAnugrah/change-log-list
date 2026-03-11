@@ -1,6 +1,90 @@
 {
   "logs": [
     {
+      "version": "1.42.1",
+      "type": "main",
+      "date": "18/03/2026",
+      "categories": [
+        {
+          "name": "Weapon Paint",
+          "items": ["Kronos Series (Season 25)", "Black Dragon Weapon Paint"]
+        },
+        {
+          "name": "Weapon",
+          "items": [
+            "M32 MGL Zombie Killer",
+            "Plasma Gun Techno",
+            "Dual Desert Eagle Techno",
+            "BALROG-IX Techno",
+            "Hyper Gaebolg Black Dragon",
+            "Hauteclere Black Dragon",
+            "Devastator Black Dragon",
+            "Demolition Hammer Black Dragon",
+            "[ZHC] Dual Beretta Gunslinger",
+            "[ZHC] Dual Sword Phantom Slayer"
+          ]
+        },
+        {
+          "name": "Item",
+          "items": [
+            "Season Nameplate (25)",
+            "Season Pass Font (25)",
+            "General Modification Materials x4",
+            "Advanced Modification Materials x3",
+            "Special Modification Materials x2",
+            "All-Star Selection Box",
+            "Kronos Package",
+            "Data Distribution Box",
+            "Season Badges x1000",
+            "Giga Blitz Knight Package",
+            "Legendary Decoder",
+            "Legendary Decoder x75 + x25",
+            "All-Star Decoder",
+            "All-Star Decoder x80 + x20",
+            "All-Star Decoder x50 + x10",
+            "Mastermind Spray",
+            "SD Agent B Spray",
+            "SD Agent C Spray"
+          ]
+        },
+        {
+          "name": "Costume",
+          "items": ["Mammon Helmet", "Mammon Fuel Tank", "Mammon Belt", "Chronobotics Heavy Zombie (Costume)", "Miniature Agent H", "Miniature Mammon", "Kronos Tactical Visor", "Kronos Tactical Unit", "Giga Blitz Knight"]
+        },
+        {
+          "name": "Medal",
+          "items": ["Season 25 Trailblazer", "Season 25 Conqueror"]
+        },
+        {
+          "name": "Map",
+          "subcategories": [
+            {
+              "name": "Normal",
+              "items": ["Yaksha Temple"]
+            }
+          ]
+        },
+        {
+          "name": "Misc",
+          "items": ["Season Pass Update", "Zombie Hero Update", "Zombie Z Update"]
+        },
+        {
+          "name": "Other",
+          "items": ["Fix beberapa nama item", "Hotfix menu 'H'", "Mengubah font style kembali pada era Counter-Strike Online Indonesia (BETA)."]
+        },
+        {
+          "name": "Special",
+          "items": ["Mengubah minor teksture 'Electron Weapon Series' menjadi lebih nyaman dan ringan saat digunakan di dalam game."]
+        },
+        {
+          "name": "NOTE",
+          "items": [
+            "Font diubah sementara untuk patch ini dikarenakan beberapa pengguna Bahasa Indonesia Fix mengalami crash sesaat di-Lobby. Apabila menggunakan patch versi ini masih ada kendala yang sama, hubungi author via Messenger/Discord."
+          ]
+        }
+      ]
+    },
+    {
       "version": "1.41.1",
       "type": "main",
       "date": "11/02/2026",
@@ -11,13 +95,7 @@
         },
         {
           "name": "Weapon",
-          "items": [
-            "Giga Break",
-            "Giga Break LE",
-            "Impulse Flail",
-            "AS50 Gold Stallion",
-            "Gold Dragon Chimera (perubahan nama dari Survivor's Secondary Weapon)"
-          ]
+          "items": ["Giga Break", "Giga Break LE", "Impulse Flail", "AS50 Gold Stallion", "Gold Dragon Chimera (perubahan nama dari Survivor's Secondary Weapon)"]
         },
         {
           "name": "Item",
@@ -57,22 +135,11 @@
         },
         {
           "name": "Costume",
-          "items": [
-            "SD Teddy Terror",
-            "Miniature Angra",
-            "Giga Vision Glasses",
-            "Giga Mechanic Tail",
-            "Giga Break Wings"
-          ]
+          "items": ["SD Teddy Terror", "Miniature Angra", "Giga Vision Glasses", "Giga Mechanic Tail", "Giga Break Wings"]
         },
         {
           "name": "Medal",
-          "items": [
-            "Giga Sting",
-            "Overclock",
-            "Giga Break Happy New Year",
-            "Role Collector"
-          ]
+          "items": ["Giga Sting", "Overclock", "Giga Break Happy New Year", "Role Collector"]
         },
         {
           "name": "Map",
@@ -130,14 +197,7 @@
         },
         {
           "name": "Costume",
-          "items": [
-            "Detective Hat",
-            "Detective Magnifying Lens",
-            "Detective Pipe",
-            "Chick Hat",
-            "Snowflake Hat",
-            "Snowboard"
-          ]
+          "items": ["Detective Hat", "Detective Magnifying Lens", "Detective Pipe", "Chick Hat", "Snowflake Hat", "Snowboard"]
         },
         {
           "name": "Medal",
@@ -158,10 +218,7 @@
         },
         {
           "name": "Other",
-          "items": [
-            "Pengurangan [SPACE] dan karakter Korea (Hangeul) pada string",
-            "Pengurangan [SPACE] dan karakter China pada string"
-          ]
+          "items": ["Pengurangan [SPACE] dan karakter Korea (Hangeul) pada string", "Pengurangan [SPACE] dan karakter China pada string"]
         }
       ]
     }
