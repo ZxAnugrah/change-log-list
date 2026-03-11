@@ -1,0 +1,169 @@
+{
+  "logs": [
+    {
+      "version": "1.41.1",
+      "type": "main",
+      "date": "11/02/2026",
+      "categories": [
+        {
+          "name": "Weapon Paint",
+          "items": ["Strawberry Cake Weapon Paint"]
+        },
+        {
+          "name": "Weapon",
+          "items": [
+            "Giga Break",
+            "Giga Break LE",
+            "Impulse Flail",
+            "AS50 Gold Stallion",
+            "Gold Dragon Chimera (perubahan nama dari Survivor's Secondary Weapon)"
+          ]
+        },
+        {
+          "name": "Item",
+          "items": [
+            "Unique Modification Weapon Selection Box",
+            "2024 Transcendence Class Selection Box",
+            "Weapon Paint Color Pack",
+            "Magma Weapon Selection Box",
+            "2025 Event Reward Box",
+            "Seluruh item untuk event EPIC 2026",
+            "Find the Zombie Weapon Box",
+            "Stage 1: Epic Decoder x100 (+20)",
+            "Stage 2: Epic Decoder x100 (+20)",
+            "Stage 3: Epic Decoder x100 (+20) + Giga Mechanic Tail",
+            "Epic Fortune Ticket",
+            "Red Envelope",
+            "Glass Shard",
+            "Glass Shard (1x) + Exploration Slot Expansion Coupon (7 hari)",
+            "777 Epic Fragment Ticket",
+            "Epic Decoder x80 (+20)",
+            "Selective Supply Pass",
+            "Modification V Series Box",
+            "Special Ops Supply Box",
+            "Operation Key",
+            "Special Supply Request Ticket",
+            "Epic Decoder (5x)",
+            "Surprise Window Spray",
+            "Surprise Ocean Spray",
+            "Surprise Cliff Spray",
+            "New Year Horse Nameplate",
+            "New Year Horse Spray",
+            "New Year Horse Font",
+            "Happy New Year Nameplate (2026)",
+            "Role Collection Token",
+            "RatterGood Spray"
+          ]
+        },
+        {
+          "name": "Costume",
+          "items": [
+            "SD Teddy Terror",
+            "Miniature Angra",
+            "Giga Vision Glasses",
+            "Giga Mechanic Tail",
+            "Giga Break Wings"
+          ]
+        },
+        {
+          "name": "Medal",
+          "items": [
+            "Giga Sting",
+            "Overclock",
+            "Giga Break Happy New Year",
+            "Role Collector"
+          ]
+        },
+        {
+          "name": "Map",
+          "subcategories": [
+            {
+              "name": "Zombie",
+              "items": ["Oasis"]
+            }
+          ]
+        },
+        {
+          "name": "Misc",
+          "items": ["Epic Shop Update", "Zombie Hero Update"]
+        },
+        {
+          "name": "Other",
+          "items": ["Fix beberapa nama item (Korx → Korea)"]
+        }
+      ]
+    },
+    {
+      "version": "1.40.1",
+      "type": "main",
+      "date": "14/01/2026",
+      "categories": [
+        {
+          "name": "Weapon",
+          "items": [
+            "Ascalon Series (I, II, III, IV, V, dan VI)",
+            "Survivor's Secondary Weapon",
+            "XM1014 Automatic Shotgun WINTER",
+            "Nata Knife WINTER",
+            "Lightning Fury Silver Black",
+            "Miracle Prism Sword Silver Black",
+            "[ZHC] SKULL-9 Burgundy",
+            "Battle Python Burgundy"
+          ]
+        },
+        {
+          "name": "Item",
+          "items": [
+            "Mythical Beast Coin",
+            "Modification Weapon Selection Ticket",
+            "Ice Box",
+            "Find the Zombie Spray Box",
+            "Find the Zombie Nameplate Box",
+            "Find the Zombie Costume Box",
+            "Find the Zombie Weapon Box",
+            "Stage 1: Temporary Chick Hat",
+            "Stage 2: All-in-One Pass (1 Day) Bundle",
+            "Stage 3: All-in-One Pass (2 Day) Bundle",
+            "Stage 4: Chick Hat (Permanent) Bundle",
+            "Dominique X Shiho Spray"
+          ]
+        },
+        {
+          "name": "Costume",
+          "items": [
+            "Detective Hat",
+            "Detective Magnifying Lens",
+            "Detective Pipe",
+            "Chick Hat",
+            "Snowflake Hat",
+            "Snowboard"
+          ]
+        },
+        {
+          "name": "Medal",
+          "items": ["Golden"]
+        },
+        {
+          "name": "Map",
+          "subcategories": [
+            {
+              "name": "Normal",
+              "items": ["Stage"]
+            }
+          ]
+        },
+        {
+          "name": "Misc",
+          "items": ["CP Shop update", "Zombie Hero Update"]
+        },
+        {
+          "name": "Other",
+          "items": [
+            "Pengurangan [SPACE] dan karakter Korea (Hangeul) pada string",
+            "Pengurangan [SPACE] dan karakter China pada string"
+          ]
+        }
+      ]
+    }
+  ]
+}
